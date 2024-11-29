@@ -2,7 +2,7 @@
 
 ![banner](assets/image.png)
 
-## OpenLoop Network is a decentralized wireless network built to enhance Internet service delivery, making it more efficient, accessible, and rewarding for everyone. 🤩
+OpenLoop Network is a decentralized wireless network built to enhance Internet service delivery, making it more efficient, accessible, and rewarding for everyone.
 
 - Link [Website](https://openloop.so/)
 - Link [Twitter](https://x.com/openloop_so)
