@@ -26,15 +26,14 @@ OpenLoop Network is a decentralized wireless network built to enhance Internet s
 
 ## SETUP ACCOUNTS
 
-- If you already have account you can put `access-token` to `token.txt`
+- If you already have account you can put `access-token` to `token.txt`.
 
 - Put your proxy in file `proxy.txt` format:
-```
-bash
-http://username:password@hostname:port
-```
+  ```bash
+  http://username:password@hostname:port
+  ```
 
-![intro](assets/image-1.png)
+  ![intro](assets/image-1.png)
 
 ## INSTALLATION
 
