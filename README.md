@@ -57,7 +57,11 @@ OpenLoop Network is a decentralized wireless network built to enhance Internet s
    ```bash
    npm run setup
    ```
-6. Run The Script:
+6. Run auto referral:
+   ```bash
+   npm run autoreff
+   ```
+7. Run The Script:
    ```bash
    npm run start
    ```
